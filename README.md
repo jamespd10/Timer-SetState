@@ -1,1 +1,1 @@
-# aplicación de temporizador con solo setstate
+# Timer app with only setstate
